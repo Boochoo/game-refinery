@@ -1,3 +1,3 @@
 # game-refinery
 
-A preliminary test for game refinery. The test was created by Jarkka.
+A preliminary test of the gaming analytics front runner company Game Refinery. The test was created by Jarkka.
