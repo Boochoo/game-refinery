@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width; initial-scale = 1.0;
-maximum-scale=1.0; user-scalable=no" />
+maximum-scale=1.0; user-scalable=no"/>
     <script src="node_modules/angular/angular.min.js"></script>
     <script src="app.js"></script>
     <script src="js/sweetalert2.min.js"></script>
@@ -22,9 +22,9 @@ maximum-scale=1.0; user-scalable=no" />
         <!-- Static navbar -->
         <nav class="navbar navbar-default">
 
-                <div class="navbar-header">
-                    <h1>GameRefinery</h1>
-                </div>
+            <div class="navbar-header">
+                <h1>GameRefinery</h1>
+            </div>
         </nav>
     </div>
 
@@ -43,21 +43,21 @@ maximum-scale=1.0; user-scalable=no" />
                     <input class="form-control name input-lg" type="text" name="name"
                            ng-model="newName" placeholder="Name"/>
 
-                    <select placeholder="Gender" name="gender" ng-model="newGender" class="form-control gender input-lg"  ng-options="g.type as g.type for g in gender"></select>
+                    <select placeholder="Gender" name="gender" ng-model="newGender" class="form-control gender input-lg"
+                            ng-options="g.type as g.type for g in gender"></select>
 
                     <div class="age_submit">
-                        <input placeholder="Age" class="form-control age input-lg"  type="number" placeholder="Age" min="1" max="120" ng-model="newAge">
+                        <input placeholder="Age" class="form-control age input-lg" type="number" placeholder="Age"
+                               min="1" max="120" ng-model="newAge">
 
                         <button class="btn btn-default submit_button input-lg" type="submit">
-                            <i class="fa fa-plus-circle fa-lg" aria-hidden="true"></i>
+                            <i class="fa fa-plus-circle fa-2x" aria-hidden="true"></i>
                         </button>
                     </div>
                 </div>
 
             </div>
         </form>
-
-
 
 
         <table class="table table-striped">
@@ -73,30 +73,40 @@ maximum-scale=1.0; user-scalable=no" />
             </thead>
 
             <tbody>
-            <tr  dir-paginate="p in person | orderBy:predicate:reverse | itemsPerPage:20 track by $index">
+            <tr dir-paginate="p in person | orderBy:predicate:reverse | itemsPerPage:20 track by $index">
 
 
                 <td class="name_td">
-                    <span  ng-model="newName" data-ng-hide="editMode">{{p.name}}</span>
-                    <input type="text" data-ng-show="editMode" data-ng-model="p.name" data-ng-required />
+                    <span ng-model="newName" data-ng-hide="editMode">{{p.name}}</span>
+                    <input type="text" data-ng-show="editMode" data-ng-model="p.name" data-ng-required/>
                 </td>
                 <td>
-                    <span  data-ng-hide="editMode" ng-model="newGender">{{p.gender}}</span>
+                    <span data-ng-hide="editMode" ng-model="newGender">{{p.gender}}</span>
 
-                    <select data-ng-show="editMode" placeholder="Gender" name="gender" ng-model="p.gender" ng-options="g.type as g.type for g in gender"></select>
+                    <select data-ng-show="editMode" placeholder="Gender" name="gender" ng-model="p.gender"
+                            ng-options="g.type as g.type for g in gender"></select>
 
                 </td>
                 <td>
-                    <div ng-model="newAge" data-ng-hide="editMode" >{{p.age}}</div>
-                    <input data-ng-show="editMode" placeholder="Age" type="number" placeholder="Age" min="1" max="120" ng-model="p.age">
+                    <div ng-model="newAge" data-ng-hide="editMode">{{p.age}}</div>
+                    <input data-ng-show="editMode" placeholder="Age" type="number" placeholder="Age" min="1" max="120"
+                           ng-model="p.age">
 
                 </td>
                 <td class="edit_td">
-                    <button type="submit" data-ng-hide="editMode" data-ng-click="editMode = true; editPerson(p)" class="btn btn-default"><i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i></button>
-                    <button type="button" data-ng-show="editMode" data-ng-click="editMode = false; saveField()" class="btn btn-default">Save</button>
-                    <button type="submit" data-ng-show="editMode" data-ng-click="editMode = false; cancel()" class="btn btn-default">Cancel</button>
+                    <button type="submit" data-ng-hide="editMode" data-ng-click="editMode = true; editPerson(p)"
+                            class="btn btn-default"><i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i>
+                    </button>
+                    <button type="button" data-ng-show="editMode" data-ng-click="editMode = false; saveField()"
+                            class="btn btn-default">Save
+                    </button>
+                    <button type="submit" data-ng-show="editMode" data-ng-click="editMode = false; cancel()"
+                            class="btn btn-default">Cancel
+                    </button>
                 </td>
-                <td class="delete_td"><button ng-click="remove(p)"><i class="fa fa-trash-o fa-lg"></i></button></td>
+                <td class="delete_td">
+                    <button ng-click="remove(p)"><i class="fa fa-trash-o fa-lg"></i></button>
+                </td>
             </tr>
             </tbody>
         </table>
@@ -105,7 +115,7 @@ maximum-scale=1.0; user-scalable=no" />
             <dir-pagination-controls
                     max-size="20"
                     direction-links="false"
-                    boundary-links="false" >
+                    boundary-links="false">
             </dir-pagination-controls>
         </div>
     </div>

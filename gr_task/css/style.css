@@ -1,15 +1,15 @@
-.gr_form{
-    width : 80%;
+.gr_form {
+    width: 80%;
     margin-left: 10%;
     margin-right: 10%;
 }
 
-
-.row{
+.row {
     margin-left: 0;
 
 }
-.form-inline .form-control{
+
+.form-inline .form-control {
     width: 30%;
     background-color: #f5f5f5;
 
@@ -19,65 +19,66 @@
     width: 100%;
 }
 
-.form-inline{
+.form-inline {
     padding-bottom: 60px;
 }
 
-.name_td{
-    width : 40%;
+.name_td {
+    width: 40%;
 }
 
-.edit_td{
-    width : 12%;
+.edit_td {
+    width: 12%;
 }
 
-.delete_td{
-    width : 12%;
+.delete_td {
+    width: 12%;
 }
 
-.head_title{
+.head_title {
     padding-left: 15px;
     padding-bottom: 28px;
 }
 
-.container{
+.container {
     width: 100%;
 }
 
-.paginate_it{
+.paginate_it {
     text-align: center;
 }
 
-.input-group{
-    width : 100%;
+.input-group {
+    width: 100%;
 }
 
-.submit_btn{
+.submit_btn {
     margin-bottom: 40px;
 }
 
-.form-inline .input-group>.form-control{
+.form-inline .input-group > .form-control {
     background-color: #ddd;
 
 }
 
-.navbar-header{
-    width : 100%;
+.navbar-header {
+    width: 100%;
 }
 
-.age_submit{
-    width : 30%;
+.age_submit {
+    width: 30%;
     float: right;
 
 }
 
-input[type=text], select{
+input[type=text], select {
     margin-bottom: 10px;
 
 }
+
 /* MEDIA QUERIES*/
 @media screen and (max-width: 1024px) {
-    .navbar-header h1{
+    .navbar-header h1 {
         font-size: 20px;
         margin-left: 10px;
     }
@@ -86,42 +87,48 @@ input[type=text], select{
         width: 100%;
         margin-left: -10px;
     }
-    .age{
-        float : left;
-        margin-right: -20px;
+
+    /* .age {
+         float: left;
+         margin-right: -20px;
+
+     }*/
+    .submit_button {
+        margin-left: 30%;
+        margin-right: 30%;
+        width: 40%;
+        margin-top: 10px;
+        background-color: #bcbcbc;
 
     }
 
-    .submit_button{
-        float : right;
-
-    }
-    .head_title{
+    .head_title {
         font-size: 22px;
     }
-.age_submit{
-    display: inline-flex;
-    width: 96%;
-    margin-left: 0;
-    float: left;
 
+    .age_submit {
+        width: 100%;
+    }
 
-}
+    .container {
+        width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+        margin-right: auto;
+        margin-left: auto;
+    }
 
-.container{
-    width: 100%;
-}
     .gr_form {
         width: 100%;
-       margin-left: 0px;
-       margin-right: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
 
 }
 
 @media only screen and (max-width: 940px), only screen and (max-device-width: 940px) {
 
-    .navbar-header{
+    .navbar-header {
         width: 100%;
         height: auto;
     }
@@ -131,13 +138,13 @@ input[type=text], select{
 
     }
 
-    .container-fluid{
+    .container-fluid {
         width: 80%;
     }
 }
 
 @media only screen and (max-width: 720px), only screen and (max-device-width: 720px) {
-    .navbar-header{
+    .navbar-header {
         width: 100%;
         height: auto;
     }
@@ -147,13 +154,13 @@ input[type=text], select{
 
     }
 
-    .container-fluid{
+    .container-fluid {
         width: 100%;
     }
 }
 
 @media only screen and (max-width: 530px), only screen and (max-device-width: 530px) {
-    .navbar-header{
+    .navbar-header {
         width: 100%;
         height: auto;
     }
@@ -163,13 +170,13 @@ input[type=text], select{
 
     }
 
-    .container-fluid{
+    .container-fluid {
         width: 100%;
     }
 }
 
 @media screen and (min-width: 480px) {
-    .navbar-header{
+    .navbar-header {
         width: 100%;
         height: auto;
     }
@@ -179,15 +186,14 @@ input[type=text], select{
 
     }
 
-    .container-fluid{
+    .container-fluid {
         width: 100%;
     }
-
 
 }
 
-@media only screen and (max-width: 530px), only screen and (max-device-width: 530px){
-    .navbar-header{
+@media only screen and (max-width: 530px), only screen and (max-device-width: 530px) {
+    .navbar-header {
         width: 100%;
         height: auto;
     }
@@ -197,7 +203,7 @@ input[type=text], select{
 
     }
 
-    .container-fluid{
+    .container-fluid {
         width: 100%;
     }
 }
