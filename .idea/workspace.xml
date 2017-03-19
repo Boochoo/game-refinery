@@ -2,8 +2,280 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db45ee8f-3bdd-4fb6-88df-d32b3719180d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gr_task/index.html" afterPath="$PROJECT_DIR$/gr_task/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gr_task/css/style.css" afterPath="$PROJECT_DIR$/gr_task/css/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/.idea/gr_task.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angular/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/dirPagination.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/dirPagination.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/bower_components/angularUtils-pagination/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/css/sweetalert2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/js/sweetalert2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/dist/ui-bootstrap-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/dist/ui-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/accordion/accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/accordion/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/accordion/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/accordion/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/accordion/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/accordion/test/accordion.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/alert/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/alert/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/alert/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/alert/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/alert/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/alert/test/alert.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/buttons/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/buttons/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/buttons/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/buttons/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/buttons/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/buttons/test/buttons.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/carousel/test/carousel.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/collapse/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/collapse/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/collapse/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/collapse/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/collapse/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/collapse/test/collapse.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dateparser/dateparser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dateparser/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dateparser/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dateparser/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dateparser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dateparser/test/dateparser.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepicker/test/datepicker.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/datepickerPopup/test/popup.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/debounce/debounce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/debounce/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/debounce/test/debounce.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/dropdown/test/dropdown.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/isClass/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/isClass/isClass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/isClass/test/isClass.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/test/modal.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/modal/test/multiMap.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pager/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pager/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pager/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pager/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pager/pager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pager/test/pager.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pagination/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pagination/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pagination/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pagination/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pagination/pagination.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/pagination/test/pagination.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/paging/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/paging/paging.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/paging/test/paging.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/test/popover-html.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/test/popover-template.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/popover/test/popover.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/position.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/position.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/test/position.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/position/test/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/progressbar/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/progressbar/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/progressbar/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/progressbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/progressbar/progressbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/progressbar/test/progressbar.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/rating/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/rating/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/rating/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/rating/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/rating/rating.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/rating/test/rating.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/stackedMap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/stackedMap/stackedMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/stackedMap/test/stackedMap.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tabs/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tabs/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tabs/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tabs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tabs/tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tabs/test/tabs.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/test/timepicker.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/timepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/timepicker/timepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/test/tooltip-template.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/test/tooltip.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/test/tooltip2.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/tooltip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/tooltip/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/docs/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/docs/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/docs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/index-nocss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/test/typeahead-highlight-ngsanitize.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/test/typeahead-highlight.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/test/typeahead-parser.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/test/typeahead-popup.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/test/typeahead.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/typeahead.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/src/typeahead/typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/accordion/accordion-group.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/accordion/accordion-group.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/accordion/accordion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/accordion/accordion.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/alert/alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/alert/alert.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/carousel/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/carousel/carousel.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/carousel/slide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/carousel/slide.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/datepicker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/datepicker.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/day.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/day.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/month.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/month.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/year.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepicker/year.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepickerPopup/popup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/datepickerPopup/popup.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/modal/backdrop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/modal/backdrop.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/modal/window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/modal/window.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/pager/pager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/pager/pager.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/pagination/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/pagination/pagination.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/popover/popover-html.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/popover/popover-html.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/popover/popover-template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/popover/popover-template.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/popover/popover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/popover/popover.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/progressbar/bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/progressbar/bar.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/progressbar/progress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/progressbar/progress.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/progressbar/progressbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/progressbar/progressbar.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/rating/rating.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/rating/rating.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tabs/tab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tabs/tab.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tabs/tabset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tabs/tabset.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/timepicker/timepicker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/timepicker/timepicker.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tooltip/tooltip-html-popup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tooltip/tooltip-html-popup.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tooltip/tooltip-popup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tooltip/tooltip-popup.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tooltip/tooltip-template-popup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/tooltip/tooltip-template-popup.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/typeahead/typeahead-match.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/typeahead/typeahead-match.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/typeahead/typeahead-popup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular-ui-bootstrap/template/typeahead/typeahead-popup.html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/node_modules/angular/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gr_task/persons.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="game-refinery.iws" />
@@ -24,38 +296,7 @@
     <favorites_list name="game-refinery" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gr_task/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4621514">
-              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gr_task/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gr_task/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.625">
-              <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,8 +304,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gr_task/index.html" />
         <option value="$PROJECT_DIR$/gr_task/css/style.css" />
+        <option value="$PROJECT_DIR$/gr_task/persons.json" />
+        <option value="$PROJECT_DIR$/gr_task/index.html" />
+        <option value="$PROJECT_DIR$/gr_task/app.js" />
       </list>
     </option>
   </component>
@@ -103,6 +346,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -120,32 +364,9 @@
               <option name="myItemId" value="game-refinery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gr_task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game-refinery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game-refinery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gr_task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -190,6 +411,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -216,25 +443,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -251,39 +478,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gr_task/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gr_task/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gr_task/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.625">
-          <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gr_task/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4621514">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
